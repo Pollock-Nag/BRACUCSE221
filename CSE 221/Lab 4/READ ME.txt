@@ -1,0 +1,14 @@
+@pollock @ID:18101114
+
+-->Task 1 and 2 are together in a single class.
+
+-->Find it in
+  (lab4Task1.java or task1re.java)
+
+**lab4Task1.java and task1re.java are same problems.
+I've used different methods to solve same problems.**
+
+                         ## (T.H.A.N.K Y.O.U) ##
+                           (Happy Programming)
+
+
